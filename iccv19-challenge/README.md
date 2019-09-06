@@ -4,7 +4,46 @@ Please strictly follow the rules. For example, please use the same [method](http
 
 [Test Server](http://www.insightface-challenge.com/overview) 
 
+**Sponsors:**
+
+The Lightweight Face Recognition Challenge has been supported by 
+
+EPSRC project FACER2VM (EP/N007743/1)
+
+Huawei (5000$)
+
+DeepGlint (3000$)
+
+iQIYI (3000$)
+
+Kingsoft Cloud (3000$)
+
+Pensees (3000$)
+
+Dynamic funding pool: (17000$)
+
+Cash sponsors and gift donations are welcome.
+
+Contact:
+insightface.challenge@gmail.com
+
+**Discussion Group**
+
+*For Chinese:*
+
+![wechat](https://github.com/deepinsight/insightface/blob/master/resources/lfr19_wechat1.jpg)
+
+*For English:*
+
+(in #lfr2019 channel)
+https://join.slack.com/t/insightface/shared_invite/enQtNjU0NDk2MjYyMTMzLTIzNDEwNmIxMjU5OGYzYzFhMjlkNjlhMTBkNWFiNjU4MTVhNTgzYjQ5ZTZiMGM3MzUyNzQ3OTBhZTg3MzM5M2I
+
+
 **NEWS**
+
+``2019.06.21`` We updated the groundtruth of Glint test dataset.
+
+``2019.06.04`` We will clean the groundtruth on deepglint testset.
 
 ``2019.05.21`` Baseline models and training logs available.
 
